@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Commit Reminder",
+        "command": "commit-reminder:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Commit Reminder",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "commit-reminder:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

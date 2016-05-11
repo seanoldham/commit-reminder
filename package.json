@@ -1,0 +1,18 @@
+{
+  "name": "commit-reminder",
+  "main": "./lib/commit-reminder",
+  "version": "0.1.0",
+  "description": "Never forget to git commit!",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "commit-reminder:toggle"
+  },
+  "repository": "https://github.com/seanosaur/commit-reminder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
