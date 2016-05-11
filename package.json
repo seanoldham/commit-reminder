@@ -3,7 +3,12 @@
   "main": "./lib/commit-reminder",
   "version": "0.1.0",
   "description": "Never forget to git commit!",
-  "keywords": [],
+  "keywords": [
+    "git",
+    "commit",
+    "remind",
+    "reminder"
+  ],
   "activationCommands": {
     "atom-workspace": "commit-reminder:toggle"
   },
