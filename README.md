@@ -1,5 +1,5 @@
-# commit-reminder package
+# commit-reminder
 
-A short description of your package.
+### Never forget to git commit!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Commit Reminder will remind you to `git commit` after 1,000 keystrokes.
