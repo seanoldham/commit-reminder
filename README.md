@@ -1,5 +1,3 @@
 # commit-reminder
 
-### Never forget to git commit!
-
-Commit Reminder will remind you to `git commit` after 1,000 keystrokes.
+Commit Reminder is an [Atom](https://atom.io/) plugin that will remind you to `git commit` after 1,000 keystrokes.
