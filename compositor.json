@@ -1,0 +1,85 @@
+{
+  "name": "seanosaur/commit-reminder",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.19"
+  },
+  "title": "Commit Reminder",
+  "branch": "",
+  "style": {
+    "name": "Williamsburg",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/LightBannerHeader",
+      "article": "article/ReaderArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Montserrat, sans-serif",
+    "heading": {
+      "fontWeight": 600,
+      "letterSpacing": "0.1em"
+    },
+    "colors": {
+      "text": "#346",
+      "background": "#fff",
+      "primary": "#0099e0",
+      "secondary": "#ab61ff",
+      "highlight": "#f7b",
+      "muted": "#fffab3",
+      "border": "#ccd"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/seanosaur/commit-reminder",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://npmjs.com/package/commit-reminder",
+          "text": "npm"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "commit-reminder",
+      "subhead": "Never forget to git commit!",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "commit-reminder: Never forget to git commit!",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "seanosaur",
+          "repo": "commit-reminder"
+        }
+      ],
+      "text": "v0.1.1"
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n<h3>Never forget to git commit!</h3>\n<p>Commit Reminder will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/seanosaur/commit-reminder",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/seanosaur",
+          "text": "seanosaur"
+        }
+      ]
+    }
+  ]
+}
