@@ -32,7 +32,16 @@
   "content": [
     {
       "component": "nav",
-      "links": []
+      "links": [
+        {
+          "href": "https://github.com/seanosaur/commit-reminder",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://atom.io/packages/commit-reminder",
+          "text": "Atom Packages"
+        }
+      ]
     },
     {
       "component": "header",
@@ -58,7 +67,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "<p>Commit Reminder is an <a href=\"https://atom.io/\">Atom</a> package that will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n<h3>Installation</h3>\n<p>The easiest way to install a package on Atom is by navigating to Settings/Preferences &gt; Install &gt; Search for <code>commit-reminder</code>.</p>\n<p>If you prefer the hard way, there&apos;s also <code>apm install atom-beautify</code>.</p>\n<p>Enjoy!</p>\n"
+      "html": "\n<h3>Never forget to git commit!</h3>\n<p>Commit Reminder will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n"
     },
     {
       "component": "footer",
