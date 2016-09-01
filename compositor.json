@@ -58,7 +58,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<p>Commit Reminder is an <a href=\"https://atom.io/\">Atom</a> plugin that will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n"
+      "html": "<p>Commit Reminder is an <a href=\"https://atom.io/\">Atom</a> package that will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n<h3>Installation</h3>\n<p>The easiest way to install a package on Atom is by navigating to Settings/Preferences &gt; Install &gt; Search for <code>commit-reminder</code>.</p>\n<p>If you prefer the hard way, there&apos;s also <code>apm install atom-beautify</code>.</p>\n<p>Enjoy!</p>\n"
     },
     {
       "component": "footer",
