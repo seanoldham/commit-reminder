@@ -58,7 +58,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<h3>Never forget to git commit!</h3>\n<p>Commit Reminder will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n"
+      "html": "\n<p>Commit Reminder is an <a href=\"https://atom.io/\">Atom</a> plugin that will remind you to <code>git commit</code> after 1,000 keystrokes.</p>\n"
     },
     {
       "component": "footer",
