@@ -59,7 +59,8 @@
           "repo": "commit-reminder"
         }
       ],
-      "text": "v0.1.1"
+      "text": "v0.1.1",
+      "slug": ""
     },
     {
       "component": "article",
@@ -76,8 +77,8 @@
           "text": "GitHub"
         },
         {
-          "href": "https://github.com/seanosaur",
-          "text": "seanosaur"
+          "href": "https://twitter.com/seanoldham",
+          "text": "Made by @seanoldham"
         }
       ]
     }
